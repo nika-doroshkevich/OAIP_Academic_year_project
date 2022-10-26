@@ -2,7 +2,7 @@
 
 :notebook: This program is an assistant in the calculation of matrix expressions.
 
-:computer: I use Delphi 7 to write code.
+:computer: I use __Delphi 7 (bold)__ to write code.
 
 ### What can it do :question:
 
